@@ -103,4 +103,4 @@ theme: wixo
 deploy:
   type: git
   repo: https://github.com/TooAme/blog2.git
-  branch: main ''
+  branch: main
